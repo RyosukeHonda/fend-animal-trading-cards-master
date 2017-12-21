@@ -1,0 +1,45 @@
+/* add your CSS here */
+body {
+	font-family: "Noto Sans", sans-serif;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+li {
+	text-align: left;
+}
+
+img {
+	width: 300px;
+	margin-bottom:  10px;
+}
+
+span {
+	font-weight: bold;
+}
+
+.card {
+	border: 1px outset gray;
+	border-bottom: 5px outset white; 
+	border-right: 5px outset white; 
+	width: 300px;
+	padding: 10px 20px 20px 20px;
+}
+
+.container {
+	border: 1px solid gray;
+
+	width: 300px;	
+}
+
+.fact {
+	font-style: italic;
+}
+
+.letter {
+	padding-left: 10px;
+}
